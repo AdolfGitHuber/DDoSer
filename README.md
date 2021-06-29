@@ -10,7 +10,7 @@
 
 ```pip install colorama```
 
-```git clone https://github.com/vebix/wannados ```
+```git clone https://github.com/AdolfGitHuber/DDoSer ```
 
 ```cd wannados```
 ### Windows
